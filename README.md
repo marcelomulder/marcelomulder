@@ -1,7 +1,6 @@
 <h1 align="center">Olá! Eu sou o Marcelo Queiroz </h1>
 
 <br>
-<br>
 
  <h2>Sobre mim</h2> 
 Sou estudante de Gestão de Tecnologia da Informação. Mega apaixonado pelo mundo tecnológico. Atuais áreas de interesse: Cybersegurança e Programação Fullstack.
