@@ -1,32 +1,53 @@
-### Hi everyone! 👋
+<h1 align="center">Olá! Eu sou o Marcelo Queiroz </h1>
 
-<!--My name is Marcelo and here are some facts about me:
+<br>
+<br>
 
-- I 
-- 🔭 I’m currently working at the brazilian stock market as a trader and a investment analyst.
-- 📝 I’m currently learning Java and Python at Codecademy and Cesar School. Soon I'll start the Data Science path📊 but I want to learn a litte bit about all the tech paths.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have two French Bulldogs (Jimmy and Charlie).
+ <h2>Sobre mim</h2> 
+Sou estudante de Gestão de Tecnologia da Informação. Mega apaixonado pelo mundo tecnológico. Atuais áreas de interesse: Cybersegurança e Programação Fullstack.
 
+<h2>Habilidades</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" max-width= 100% img width=430px src="https://github-readme-stats.vercel.app/api?username=marcelomulder&show_icons=true&theme=blue-green" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" max-width= 100% img width=490px src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomulder&layout=compact&show_icons=true&theme=blue-green" />
-</a>
+<div style="display: flex">
+<br>
 
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
 
+![Php](https://img.shields.io/badge/Php-000?style=for-the-badge&logo=php&logoColor=blue)
 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+</div>
+
+<div  align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomulder&layout=compact&langs_count=7&theme=react)
+
+</div>
  
+<h2>Sistema operacional</h2>
+<br>
 
-### Contact Info
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+<h2>Redes Sociais</h2>
+
+<div style="display: flex">
+<br>
+
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/marceloqueirozjr/)
+
+</div>
 
