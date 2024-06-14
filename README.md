@@ -7,7 +7,7 @@ Sou estudante de Gestão de Tecnologia da Informação. Mega apaixonado pelo mun
 
 <h2>Habilidades</h2>
 
-<div style="display: flex">
+<div style="display:flex">
 <br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
