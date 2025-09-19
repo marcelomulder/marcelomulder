@@ -8,7 +8,7 @@ My mission is to contribute to a safer digital world through **ethical hacking**
 <br>
 
 ## 🔑 Key Highlights  
-- 🛡️ Reported **48 officially published CVEs** as a volunteer with the [CVE Hunters](https://cvehunters.io) project  
+- 🛡️ Reported **63 officially published CVEs** as a volunteer with the [CVE Hunters](https://cvehunters.io) project  
 - 🎯 Bug Bounty 
 - ⚔️ Skilled in **attack simulation, defense evasion, and risk assessment**  
 - 💻 Background in **Penetration Testing, CyberOps, and IT Management**  
